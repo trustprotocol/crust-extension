@@ -1,4 +1,4 @@
-# Crust wallet
+# Trust wallet
 
 Crust wallet is for project Crust
 
